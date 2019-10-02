@@ -1,4 +1,4 @@
-const POKEMON = {
+let POKEMON = {
   "pokemon": [{
     "id": 1,
     "num": "001",
@@ -806,7 +806,7 @@ const POKEMON = {
   }, {
     "id": 29,
     "num": "029",
-    "name": "Nidoran ♀ (Female)",
+    "name": "Nidoran (Female)",
     "img": "http://www.serebii.net/pokemongo/pokemon/029.png",
     "type": [
       "Poison"
@@ -899,7 +899,7 @@ const POKEMON = {
   }, {
     "id": 32,
     "num": "032",
-    "name": "Nidoran ♂ (Male)",
+    "name": "Nidoran (Male)",
     "img": "http://www.serebii.net/pokemongo/pokemon/032.png",
     "type": [
       "Poison"
